@@ -11,6 +11,8 @@ Welcome to first's documentation!
    :caption: Contents:
 
    hello
+   
+   test
 
 
 Indices and tables
